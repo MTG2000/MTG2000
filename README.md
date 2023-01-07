@@ -3,10 +3,7 @@
 
 - 💕 My primary skillset is in: React, TypeScript, Javascript, Redux, Tailwind, Scss, GraphQl.
 
-- 👀 I'm always interested in working on projects that are: 
-1) Unique 
-2) Fun
-3) Add value to someone
+- 👀 I'm always interested in working on projects that are: Unique, Fun, & actually add value to someone somewhere.
 
 - 🛠 Currently, I'm mainly working on [bolt.fun](https://bolt.fun), a social platform for the lightning community makers & projects.
 
