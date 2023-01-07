@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mohammed Taher Ghazal</h1>
 <h3 align="center">A Front-end developer</h3>
 
-- 💕 I'm very good with: React, TypeScript, Javascript, Redux, Tailwind, Scss, Storybook.
+- 💕 My primary skillset is in: React, TypeScript, Javascript, Redux, Tailwind, Scss, GraphQl.
 
-- 👀 Always looking to work on unique projects that can have an impact somewhere.
+- 👀 I'm always interested in working on projects that are: 
+1) Unique 
+2) Fun
+3) Add value to someone
 
-- 🛠 I’m currently working on [bolt.fun](https://bolt.fun), a platform for the community of lightining apps makers.
+- 🛠 Currently, I'm mainly working on [bolt.fun](https://bolt.fun), a social platform for the lightning community makers & projects.
 
-- 🎭 My beautiful portfolio [mtg-dev.tech](https://mtg-dev.tech) :)
+- 🎭 I have a portfolio & a blog that you can check here: [mtg-dev.tech](https://mtg-dev.tech)
 
 - ✨ I'm interested in & learning about: Blockchain technology, Competitve programming, Algorithems & Data Structures.
 
-- 📧 Want to build something together ?? reach me via my email: mtg0987654321@gmail.com & let's have a nice chat ☕
+- 📧 Want my help in building something (or fixing something)?? Shoot me a message at: mtg.software.dev@gmail.com & we can have a quick nice chat ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
